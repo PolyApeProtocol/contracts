@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// D神、瘋狗幫審計ㄇ
+// 瘋狗、D神幫窩審計 霸拖
 pragma solidity ^0.6.12;
 
 import "@openzeppelin/contracts/math/SafeMath.sol";
