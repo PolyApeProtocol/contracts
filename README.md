@@ -1,6 +1,6 @@
 # contracts
 
-PolyA
+PolyApe Token
 https://explorer-mainnet.maticvigil.com/address/0xD8215973b1589EB40db2B869FC535f357cf229e5
 
 PolyChef
